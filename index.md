@@ -7,3 +7,4 @@ title: index
 - [1-3.pdf](1-3.pdf)
 - [Ioi95-6.pdf](Ioi95-6.pdf)
 - [ioi2000solutions.pdf](ioi2000solutions.pdf)
+- [2006\_MARCH\_Problem.pdf](2006_MARCH_Problem.pdf)
